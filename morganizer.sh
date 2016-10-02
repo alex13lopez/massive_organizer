@@ -2,7 +2,7 @@
 
 ##########################################################################################
 # Name: Massive Organizer                                                                 
-# Author: Aren <alex13gamerz@gmail.com>                                                   
+# Author: ArenGamerZ <alex13gamerz@gmail.com>                                                   
 # Version: 1.2                                                                            
 # Description: This script will order alphabetically all files and directorys in the      
 #              current directory.                                                          

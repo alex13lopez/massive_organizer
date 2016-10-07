@@ -1,8 +1,6 @@
 Name: Massive Organizer                                                                 
 
-Author: ArenGamerZ 
-
-Email: alex13gamerz@gmail.com                                                   
+Author: ArenGamerZ                                                 
 
 Version: 1.2-RC                                                                            
 

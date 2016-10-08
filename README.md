@@ -2,6 +2,8 @@ Name: Massive Organizer
 
 Author: ArenGamerZ                                                 
 
+Email: arendevel@gmail.com
+
 Version: 1.2-RC                                                                            
 
 Description: This script will order alphabetically all files and directorys in the      

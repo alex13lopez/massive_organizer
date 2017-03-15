@@ -1,2 +1,15 @@
-# README #
-Just type in a terminal morganizer.sh and it will run (Make sure you are using bash). 
+Name: Massive Organizer                                                                 
+
+Author: ArenGamerZ                                                 
+
+Email: arendevel@gmail.com
+
+Version: 1.2-RC                                                                            
+
+Description: This script will order alphabetically all files and directorys in the      
+             current directory.  
+                                                                                                                                                
+ATTENTION: Do not change the name to the script because otherwise the grep filter       
+           will not work properly and will cause the script to malfunction.         
+
+LICENSE: GNU GPL
